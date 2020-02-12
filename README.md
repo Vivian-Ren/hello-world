@@ -1,2 +1,2 @@
 # hello-world
-the first trial
+Hi human! This is Vivian from Mars!
