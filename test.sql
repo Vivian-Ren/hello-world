@@ -1,1 +1,1 @@
-select top 1000 * from test.dummy
+select top 1000 * from test.dummy where 1=1
