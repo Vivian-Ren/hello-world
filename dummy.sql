@@ -47,4 +47,4 @@ LEFT JOIN (
     AND payment_dest = 'money'
   GROUP BY invoice_id) refund
 USING
-  (invoice_id)
+  (invoice_id)  
