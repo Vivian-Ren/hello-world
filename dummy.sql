@@ -48,3 +48,4 @@ LEFT JOIN (
   GROUP BY invoice_id) refund
 USING
   (invoice_id)  
+Limit 100
